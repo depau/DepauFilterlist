@@ -39,7 +39,6 @@ hackintosh.download##script:has-text(removeElementsByClass)
 
 hackintosh.download##+js(abort-on-property-read.js, adbd)
 hackintosh.download##+js(abort-current-inline-script.js, isAdsenseNotLoaded)
-hackintosh.download##+js(nano-setInterval-booster.js, downloadCounter, 1000, 0.1)
 #hackintosh.download##.ipsButton+js(addEventListener-defuser.js, click)
 hackintosh.download##a#download:style(position: absolute !important; top: 175px !important; width: 300px !important;)
 ||www.hackintosh.download/ips4/async.js$script,first-party
