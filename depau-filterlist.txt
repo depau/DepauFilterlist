@@ -1,0 +1,138 @@
+! 11/23/2018, 11:31:23 AM https://code.tutsplus.com/tutorials/code-a-widget-for-your-android-app-updating-your-widget--cms-30528
+||static.tutsplus.com/assets/ad-pinstripe-0f2204b78e74d95ab66ac7d2fd8fb2d0.png$image
+
+! 11/23/2018, 11:31:26 AM https://code.tutsplus.com/tutorials/code-a-widget-for-your-android-app-updating-your-widget--cms-30528
+||static.tutsplus.com/assets/free_trial/background-green-7411cf79b492095b778eef9e1c95d284.png$image
+
+! 11/23/2018, 11:31:53 AM https://code.tutsplus.com/tutorials/code-a-widget-for-your-android-app-updating-your-widget--cms-30528
+code.tutsplus.com##.tether-target-attached-left.tether-element-attached-left.tether-out-of-bounds-bottom.tether-out-of-bounds.tether-pinned-top.tether-pinned.tether-abutted-left.tether-abutted.tether-enabled.tether-element.avert--sticky
+
+# I'm particularly against the use of ads by hackintosh.computer/download. They're making money over software
+# they're illegally redistributing and over promoting its use on hardware on which it's not allowed to run.
+# Their ads must die.
+
+@@||hackintosh.computer^$generichide
+@@||hackintosh.computer/*ad$script
+@@||pagead2.googlesyndication.com^$script,domain=hackintosh.computer
+hackintosh.computer##.adscenter
+hackintosh.computer###googleads
+
+hackintosh.download##.adscenter
+hackintosh.download###googleads
+
+hackintosh.computer##.f-NJD1R8-1-
+hackintosh.computer##body:style(overflow: visible !important;) 
+hackintosh.computer##html:style(overflow: visible !important;) 
+
+hackintosh.computer##div#loader-wrapper
+hackintosh.computer##div#loader
+
+www.hackintosh.computer##.cc-color-override-1827372716.cc-left.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+
+hackintosh.download##.f-NJD1R8-1-
+hackintosh.download##body:style(overflow: visible !important;) 
+hackintosh.download##html:style(overflow: visible !important;)
+
+hackintosh.download##.onp-sl-overlap-box.onp-sl-transparence-mode.onp-sl-secrets-theme
+hackintosh.download##script:has-text(isAdsenseNotLoaded)
+hackintosh.download##script:has-text(removeElementsByClass)
+
+hackintosh.download##+js(abort-on-property-read.js, adbd)
+hackintosh.download##+js(abort-current-inline-script.js, isAdsenseNotLoaded)
+hackintosh.download##+js(nano-setInterval-booster.js, downloadCounter, 1000, 0.1)
+#hackintosh.download##.ipsButton+js(addEventListener-defuser.js, click)
+hackintosh.download##a#download:style(position: absolute !important; top: 175px !important; width: 300px !important;)
+||www.hackintosh.download/ips4/async.js$script,first-party
+
+# Block video recipe
+
+! 1/27/2019 https://ricette.giallozafferano.it
+ricette.giallozafferano.it##.show.flying.flyingVideo
+ricette.giallozafferano.it##.placeholderFV
+
+! 1/29/2019 https://quicktype.io
+||quicktype.io/static/images/glide-ad.png$image
+
+! 2/1/2019 https://www.timecamp.com
+||secure.livechatinc.com/licence/1019454/v2/open_chat.cgi
+
+! 2/8/2019 https://www.phoronix.com
+www.phoronix.com###\32 faf
+
+! 2/8/2019 https://www.sacurrent.com
+www.sacurrent.com###qcCmpUi
+www.sacurrent.com##.qc-cmp-showing.qc-cmp-ui-container
+
+www.sacurrent.com##body:style(overflow: visible !important;) 
+www.sacurrent.com##html:style(overflow: visible !important;)
+
+! 2/11/2019 https://www.macitynet.it
+www.macitynet.it##.ml-block-form > .subscribe-form
+www.macitynet.it##.td-ss-main-sidebar
+www.macitynet.it##.td-pb-span8:style(width: 100%;)
+
+! 2/11/2019 https://capre.it
+capre.it###cc-notification
+
+! 2/11/2019 https://www.phoronix.com
+www.phoronix.com##article > strong:first-of-type
+www.phoronix.com##.qc-cmp-showing.qc-cmp-ui-container
+
+! 2/16/2019 https://www.phoronix.com
+www.phoronix.com##article.full > strong:first-of-type
+
+! 2/16/2019 https://www.androidpolice.com
+www.androidpolice.com##.qc-cmp-showing.qc-cmp-ui-container
+www.androidpolice.com##body:style(overflow: visible !important;)
+www.androidpolice.com##html:style(overflow: visible !important;)
+
+! 2/19/2019 https://disruptive.asia
+||wpengine.netdna-ssl.com/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+disruptive.asia##div#the_champ_sharing_more_providers
+disruptive.asia###hwp-10187
+disruptive.asia##.cookie-notice-container
+
+! 2/20/2019 https://www.aliexpress.com
+www.aliexpress.com##.ui-mask
+www.aliexpress.com##.ui-newuser-layer-dialog
+www.aliexpress.com###j-aliexpress-notice
+
+! 2/20/2019 https://www.banggood.com
+||css.banggood.com/web/src/img/index/newbie.png?v=d63d482$image
+www.banggood.com##.modal-newbie.modal
+www.banggood.com##.cookie-tip
+||img.staticbg.com/banggood/os/201902/20190219213253_739.gif$image
+www.banggood.com##.exclick.top-link
+www.banggood.com##.top-item
+www.banggood.com###jsUseCookieTips
+
+! 2/20/2019 https://www.dx.com
+||c.dx.com/banner/201901/20190122/UMI_F1_1920x80_en.jpg$image
+www.dx.com###commonHeadBannerPanel
+
+! 2/21/2019 https://www.devicespecifications.com
+www.devicespecifications.com###cookie-consent
+
+! 2/22/2019 https://www.emuparadise.me
+www.emuparadise.me##div.row:nth-of-type(2) > div.last.col_12:nth-of-type(1) > .box
+
+! 3/4/2019 https://sourceforge.net
+sourceforge.net###newsletter-floating
+sourceforge.net##.qc-cmp-showing.qc-cmp-ui-container
+sourceforge.net##body:style(overflow: visible !important;)
+sourceforge.net##html:style(overflow: visible !important;)
+
+! 3/4/2019 https://www.kickkick.it
+www.kickkick.it##div.zopim:nth-of-type(2)
+
+! 3/4/2019 https://www.geekvape.com
+www.geekvape.com###simplemodal-overlay
+www.geekvape.com###simplemodal-container
+
+# I'm totally in favor of promoting Wikipedia and supporting the project with donations. However their popups
+# are waaaaaay too annoying.
+
+! 3/9/2019 https://en.wikipedia.org
+wikipedia.org##.frb-main
+wikipedia.org###frb-nag
+wikipedia.org###frb-inline
