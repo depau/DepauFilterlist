@@ -135,3 +135,9 @@ www.geekvape.com###simplemodal-container
 wikipedia.org##.frb-main
 wikipedia.org###frb-nag
 wikipedia.org###frb-inline
+
+! 3/26/2019 https://www.scribd.com
+www.scribd.com##+js(set-constant.js, render_blur_promo, noopFunc)
+www.scribd.com##div.text_layer *:style(text-shadow: none !important; color: initial !important;) 
+www.scribd.com##div.image_layer img:style(opacity: 1 !important;)
+www.scribd.com###page_missing_explanation_10
