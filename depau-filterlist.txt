@@ -167,3 +167,11 @@ nuget.org##.banner-notice.banner.container-fluid
 
 ! RunKit NPM register banner
 npm.runkit.com###register-banner
+
+! Pinterest's desperate need to make you sign up
+pinterest.com##.outerCookieBar
+pinterest.com##.outerCookieBar + div:style(margin-top: 0 !important;)
+www.pinterest.com##div[data-test-id="giftWrap"]
+www.pinterest.com##div.Hsu.iyn.zI7:nth-of-type(4) > div > .FullPageModal__scroller
+www.pinterest.com##div:nth-of-type(2) > .Hsu.iyn.zI7 > div.Hsu.iyn.zI7:nth-of-type(4) > div
+www.pinterest.com##.Closeup__wrapper div div.Jea
