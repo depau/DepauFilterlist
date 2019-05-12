@@ -54,10 +54,6 @@ ricette.giallozafferano.it##.placeholderFV
 
 ! 2/1/2019 https://www.timecamp.com
 ||secure.livechatinc.com/licence/1019454/v2/open_chat.cgi
-
-! 2/8/2019 https://www.phoronix.com
-www.phoronix.com###\32 faf
-
 ! 2/8/2019 https://www.sacurrent.com
 www.sacurrent.com###qcCmpUi
 www.sacurrent.com##.qc-cmp-showing.qc-cmp-ui-container
@@ -74,10 +70,11 @@ www.macitynet.it##.td-pb-span8:style(width: 100%;)
 capre.it###cc-notification
 
 ! 2/11/2019 https://www.phoronix.com
+www.phoronix.com###\32 faf
 www.phoronix.com##article > strong:first-of-type
 www.phoronix.com##.qc-cmp-showing.qc-cmp-ui-container
-
-! 2/16/2019 https://www.phoronix.com
+www.phoronix.com##.qc-cmp-persistent-link
+www.phoronix.com##.qc-cmp-ui-showing:style(overflow: visible !important;)
 www.phoronix.com##article.full > strong:first-of-type
 
 ! 2/16/2019 https://www.androidpolice.com
@@ -135,9 +132,38 @@ www.geekvape.com###simplemodal-container
 wikipedia.org##.frb-main
 wikipedia.org###frb-nag
 wikipedia.org###frb-inline
+wikipedia.org##.ceb-block
+wikipedia.org###ceb-inline
+wikipedia.org###siteNotice
 
 ! 3/26/2019 https://www.scribd.com
 www.scribd.com##+js(set-constant.js, render_blur_promo, noopFunc)
 www.scribd.com##div.text_layer *:style(text-shadow: none !important; color: initial !important;) 
 www.scribd.com##div.image_layer img:style(opacity: 1 !important;)
-www.scribd.com###page_missing_explanation_10
+
+! WanbExpress
+tracking.wanbexpress.com##.footer-img
+tracking.wanbexpress.com##.grecaptcha-badge
+tracking.wanbexpress.com##.footer
+
+! KickKick
+||www.kickkick.it/img/BannerFeedatyKickKick.jpg$image
+
+! Medium
+medium.com##.js-postShareWidget
+
+! JavaRevisited
+javarevisited.blogspot.com###cookieChoiceInfo
+javarevisited.blogspot.com###sharebar
+
+! PayPal GDPR
+paypal.com###gdprCookieBanner
+
+! Rapid7 GDPR
+rapid7.com###gdprAlert
+
+! NuGet banner
+nuget.org##.banner-notice.banner.container-fluid
+
+! RunKit NPM register banner
+npm.runkit.com###register-banner
