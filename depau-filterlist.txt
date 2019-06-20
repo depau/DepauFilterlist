@@ -171,7 +171,25 @@ npm.runkit.com###register-banner
 ! Pinterest's desperate need to make you sign up
 pinterest.com##.outerCookieBar
 pinterest.com##.outerCookieBar + div:style(margin-top: 0 !important;)
-www.pinterest.com##div[data-test-id="giftWrap"]
-www.pinterest.com##div.Hsu.iyn.zI7:nth-of-type(4) > div > .FullPageModal__scroller
-www.pinterest.com##div:nth-of-type(2) > .Hsu.iyn.zI7 > div.Hsu.iyn.zI7:nth-of-type(4) > div
-www.pinterest.com##.Closeup__wrapper div div.Jea
+pinterest.com##div[data-test-id="giftWrap"]
+pinterest.com##div.Hsu.iyn.zI7:nth-of-type(4) > div > .FullPageModal__scroller
+pinterest.com##div:nth-of-type(2) > .Hsu.iyn.zI7 > div.Hsu.iyn.zI7:nth-of-type(4) > div
+pinterest.com##.Closeup__wrapper div div.Jea
+pinterest.com##.FullPageModal__scroller
+pinterest.com##div[data-test-id="fullPageSignupModal"]
+pinterest.com##body:style(overflow-y: visible !important;)
+
+! 5/14/2019 https://www.apkmirror.com
+*##.qc-cmp-ui-content
+*###qcCmpUi
+*##.qc-cmp-showing.qc-cmp-ui-container
+*##.qc-cmp-ui-showing:style(overflow: visible !important;)
+
+! 5/15/2019 https://www.tonymacx86.com
+tonymacx86.com##.notice-content
+
+! 5/20/2019 https://www.smo-kingshop.it
+www.smo-kingshop.it###bottom
+
+! 5/23/2019 https://www.cloud.it
+www.cloud.it###cookiesdirective
