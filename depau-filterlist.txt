@@ -43,6 +43,40 @@ hackintosh.download##+js(abort-current-inline-script.js, isAdsenseNotLoaded)
 hackintosh.download##a#download:style(position: absolute !important; top: 175px !important; width: 300px !important;)
 ||www.hackintosh.download/ips4/async.js$script,first-party
 
+
+hackintoshzone.com##.adscenter
+hackintoshzone.com###googleads
+
+hackintoshzone.com##.f-NJD1R8-1-
+hackintoshzone.com##body:style(overflow: visible !important;) 
+hackintoshzone.com##html:style(overflow: visible !important;) 
+
+hackintoshzone.com##div#loader-wrapper
+hackintoshzone.com##div#loader
+
+hackintoshzone.com##.cc-color-override-1827372716.cc-left.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+
+hackintoshzone.com##.onp-sl-overlap-box.onp-sl-transparence-mode.onp-sl-secrets-theme
+hackintoshzone.com##script:has-text(isAdsenseNotLoaded)
+hackintoshzone.com##script:has-text(removeElementsByClass)
+
+hackintoshzone.com##+js(abort-on-property-read.js, adbd)
+hackintoshzone.com##+js(abort-current-inline-script.js, isAdsenseNotLoaded)
+#hackintoshzone.com##.ipsButton+js(addEventListener-defuser.js, click)
+hackintoshzone.com##a#download:style(position: absolute !important; top: 175px !important; width: 300px !important;)
+
+||hackintoshzone.com/ips4/async.js$script,first-party
+||www.hackintosh.download/ips4/async.js$script,first-party
+
+! 6/20/2019 https://www.hackintoshzone.com
+hackintoshzone.com###detectadnotes
+hackintoshzone.com##.section-right.loader-section
+hackintoshzone.com##.section-left.loader-section
+hackintoshzone.com##loader
+hackintoshzone.com##loaderwrapperz
+hackintoshzone.com##.cc-color-override--1762072787.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+
 # Block video recipe
 
 ! 1/27/2019 https://ricette.giallozafferano.it
