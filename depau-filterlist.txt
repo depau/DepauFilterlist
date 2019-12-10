@@ -227,3 +227,54 @@ www.smo-kingshop.it###bottom
 
 ! 5/23/2019 https://www.cloud.it
 www.cloud.it###cookiesdirective
+
+! 6/20/2019 https://www.hackintosh.download
+www.hackintosh.download##.ipsSpacer_bottom.ipsClearfix.ipsPageHeader
+
+! 7/2/2019 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.cc-color-override-382972913.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+www.idealista.it##.item_contains_branding.item-multimedia-container
+www.immobiliare.it##li.listing-item:has(div.listing-item_action--logo)
+
+! 7/27/2019 https://forums.oneplus.com
+forums.oneplus.com###header_raffle
+
+! 7/27/2019 https://community.nxp.com
+community.nxp.com###cookie-consent-overlay
+community.nxp.com###cookie-consent-alert
+community.nxp.com##body:style(overflow: visible !important;)
+
+! 8/6/2019 https://romfirmware.com
+romfirmware.com###ignielAdBlock
+romfirmware.com##.penci-gprd-law
+romfirmware.com##body:style(overflow: visible !important;)
+
+! 8/11/2019 https://www.ebay.it
+||ir.ebaystatic.com/*/*_Imperdibili_*.gif$image
+||ir.ebaystatic.com/cr/v/c1/W28_Imperdibili_DoodleUpdate1.gif$image
+
+! 8/12/2019 https://www.petitchef.it
+www.petitchef.it###nl-fixed-bottom
+www.petitchef.it###header-sticky
+www.petitchef.it###rd-sticky
+
+! 8/14/2019 https://www.asst-santipaolocarlo.it
+www.asst-santipaolocarlo.it###_it_smc_liferay_privacy_web_portlet_PrivacyPortlet_privacy-info-message
+
+! 8/15/2019 https://www.fossmint.com
+||static.mailerlite.com$subdocument
+www.fossmint.com###ml-webforms-popup-1018794-overlay
+
+! 8/17/2019 https://www.fosshub.com
+www.fosshub.com##.ad-alt
+
+! 8/25/2019 https://amazfitwatchfaces.com
+amazfitwatchfaces.com##.growl-large.growl-notice.growl
+
+! 9/20/2019 https://www.skuola.net
+www.skuola.net###sknet-player-vjs-y-0Q1ljkRq70o_html5_api
+
+torrentproject.cc/hkz
+
+||210.61.8.67:8080/opencms/images/New.png
