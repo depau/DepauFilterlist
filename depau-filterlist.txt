@@ -278,3 +278,31 @@ www.skuola.net###sknet-player-vjs-y-0Q1ljkRq70o_html5_api
 torrentproject.cc/hkz
 
 ||210.61.8.67:8080/opencms/images/New.png
+
+! 8/2/2020 https://www.android-x86.org
+www.android-x86.org##.brid-touch-overlay
+||videos.increaserev.com$media
+www.android-x86.org##.brid-holder
+www.android-x86.org###Brid_66475714
+
+! 8/7/2020 https://www.fosshub.com
+www.fosshub.com##.ad-alt
+
+! 2020-08-21 https://www.pinterest.com
+www.pinterest.com##.qiB > div > section
+
+! 2020-08-28 https://www.eidosmedia.com
+||www.eidosmedia.com/assets/themes/eidosmedia.com/img/bkg-trans.png$image
+www.eidosmedia.com##.notifyContainer > .modalFlip > .card > .facefront
+||www.eidosmedia.com/assets/themes/eidosmedia.com/img/bkg-trans.png$image
+www.eidosmedia.com##.notifyContainer
+
+! 2020-09-06 https://www.digitaltrends.com
+www.digitaltrends.com###vjs_video_3_html5_api
+
+! 2020-09-29 https://www.facebook.com
+www.facebook.com###u_0_d
+
+! 2020-10-19 https://www.songho.ca
+www.songho.ca###rightblock
+www.songho.ca###leftblock:style(float: unset !important;float: unset; padding: unset; border: unset; margin: auto;) 
