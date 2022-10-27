@@ -306,3 +306,31 @@ www.facebook.com###u_0_d
 ! 2020-10-19 https://www.songho.ca
 www.songho.ca###rightblock
 www.songho.ca###leftblock:style(float: unset !important;float: unset; padding: unset; border: unset; margin: auto;) 
+
+! 2021-04-08 https://en.wikipedia.org
+en.wikipedia.org##.frb-button.frb-nag-link
+en.wikipedia.org##.cn-fundraising
+
+! 2021-04-08 https://it.wikipedia.org
+it.wikipedia.org##.frb-button.frb-nag-link
+it.wikipedia.org##.cn-fundraising
+
+! 2021-10-02 https://babaiswiki.fandom.com
+babaiswiki.fandom.com##.wikia-bar-anon.wikia-bar
+
+! 2022-03-08 https://dotnetfiddle.net
+dotnetfiddle.net##.container-sponsor-pandaflow.container-sponsor
+dotnetfiddle.net##.show.overlay
+
+! 2022-09-10 https://cloud.oracle.com
+
+! 2022-09-17 https://www.snapeda.com
+www.snapeda.com##.custom_featured.inline_ad_template_col
+
+! 2022-09-22 https://realfavicongenerator.net
+realfavicongenerator.net##.justmybio-alert.justmybio
+
+elearning.unimib.it##+js(remove-attr, width, iframe#contentframe, stay)
+elearning.unimib.it##iframe#contentframe:style(width: 100% !important; height: 95vh !important)
+
+
