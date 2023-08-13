@@ -333,4 +333,10 @@ realfavicongenerator.net##.justmybio-alert.justmybio
 elearning.unimib.it##+js(remove-attr, width, iframe#contentframe, stay)
 elearning.unimib.it##iframe#contentframe:style(width: 100% !important; height: 95vh !important)
 
+! 2023-08-13 https://www.youmath.it
+www.youmath.it##div>div:has-text(/Adblocker rilevato/)
+
+www.youmath.it##body:style(overflow: visible !important;)
+www.youmath.it##div#container_main:style(filter: initial !important;)
+www.youmath.it##div#container_content:style(filter: initial !important;)
 
