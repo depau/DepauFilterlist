@@ -340,3 +340,16 @@ www.youmath.it##body:style(overflow: visible !important;)
 www.youmath.it##div#container_main:style(filter: initial !important;)
 www.youmath.it##div#container_content:style(filter: initial !important;)
 
+! 2023-05-02 https://elearning.unimib.it
+elearning.unimib.it##[href^="https://www.paypal.com/donate/?hosted_button_id=7L23NR7AF3BGJ"]
+
+! 2023-05-03 https://genius.com
+||genius.com/songs/86620/apple_music_player?react=1$subdocument
+
+www.agoscorporate.it##body:style(overflow: visible !important;)
+
+! 2024-03-21 https://chat.openai.com
+chat.openai.com###enforcement-containerchatgpt-paid
+
+
+
