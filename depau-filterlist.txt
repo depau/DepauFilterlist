@@ -62,7 +62,6 @@ hackintoshzone.com##script:has-text(removeElementsByClass)
 
 hackintoshzone.com##+js(abort-on-property-read.js, adbd)
 hackintoshzone.com##+js(abort-current-inline-script.js, isAdsenseNotLoaded)
-#hackintoshzone.com##.ipsButton+js(addEventListener-defuser.js, click)
 hackintoshzone.com##a#download:style(position: absolute !important; top: 175px !important; width: 300px !important;)
 
 ||hackintoshzone.com/ips4/async.js$script,first-party
